@@ -1,0 +1,16 @@
+{
+  "name": "env-roulette",
+  "version": "1.0.0",
+  "description": "A gambling simulator for your environment variables",
+  "main": "env-roulette.js",
+  "bin": {
+    "env-roulette": "./env-roulette.js"
+  },
+  "scripts": {
+    "start": "node env-roulette.js",
+    "gamble": "node env-roulette.js"
+  },
+  "keywords": ["env", "debugging", "gambling", "roulette"],
+  "author": "Your Friendly Neighborhood Debugger",
+  "license": "MIT"
+}
